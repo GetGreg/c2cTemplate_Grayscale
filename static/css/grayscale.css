@@ -145,7 +145,7 @@
 }
 
 .btn-primary {
-  background-color: #fba19d;
+  background-color: blue;
 }
 
 .btn-primary:hover {
@@ -153,12 +153,12 @@
 }
 
 .btn-primary:focus {
-  background-color: #4f837f;
+  background-color: green;
   color: white;
 }
 
 .btn-primary:active {
-  background-color: #467370 !important;
+  background-color: green !important;
 }
 
 .about-section {
